@@ -1,0 +1,1 @@
+# I_HATE_NOTEPAD

@@ -1,0 +1,3 @@
+﻿  IHateNotepad.cpp
+C:\Users\강춘구\source\repos\IHateNotepad\IHateNotepad\IHateNotepad.cpp(75,23): warning C4244: '=': 'LRESULT'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  IHateNotepad.vcxproj -> C:\Users\강춘구\source\repos\IHateNotepad\x64\Debug\IHateNotepad.exe
